@@ -1,7 +1,7 @@
 public class hello {
     public static void main(String[] args) {
         // Declare two numbers
-        int num1 = 15;
+        int num1 = 25;
         int num2 = 25;
 
         // Perform addition
