@@ -2,7 +2,7 @@ public class hello {
     public static void main(String[] args) {
         // Declare two numbers
         int num1 = 25;
-        int num2 = 25;
+        int num2 = 26;
 
         // Perform addition
         int sum = num1 + num2;
